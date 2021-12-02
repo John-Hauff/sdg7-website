@@ -80,7 +80,7 @@ const Feature = () => {
     {
       id: 3,
       img: "https://i.imgur.com/1iLpSSV.gif",
-      title: "Portable And Rechargeable, With A Battery That Lasts",
+      title: "Portable and Rechargeable, With a Battery That Lasts",
       desc: "The Smart Bird Feeder is portable and includes a rechargeable battery that will last hours. This is largely possible due to the power-efficient motion sensor built into The Smart Bird Feeder, which allows the feeder to use less power when there is nothing nearby.",
     },
     {
