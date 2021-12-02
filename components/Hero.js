@@ -22,13 +22,14 @@ const Hero = () => {
                 birdwatching hobby and minimize the required time commitment
                 from the user, while still achieving maximum results. The Smart
                 Bird Feeder utilizes object detection technology to identify
-                sought after species with a confidence interval of 90% or
-                better, and auto defense mechanisms for backyard pests. The
-                accompanying mobile application includes the ability to autosave
-                bird memories, categorize birds, and send notifications. To our
-                knowledge, there is no product that exists on the marketplace
-                with all these features, and thus our group seeks to fill this
-                empty space by making a specialized bird feeder like no other.
+                sought after bird species with a confidence interval of 90% or
+                better, and includes auto defense mechanisms for backyard pests.
+                The accompanying mobile application includes the ability to
+                autosave bird memories, categorize birds, and send
+                notifications. To our knowledge, there is no product that exists
+                on the marketplace with all these features, and thus our group
+                seeks to fill this empty space by making a specialized bird
+                feeder like no other.
               </p>
               <a href="#feature" className="btn btn-warning">
                 Learn More <span className="ml-2 right-icon">&#8594;</span>
