@@ -39,7 +39,6 @@ const About = () => {
                   className="img-fluid d-block mx-auto"
                   width="100"
                   height="150"
-                  style={{ paddingBottom: 10 }}
                 />
                 <p className="text-muted font-weight-light">
                   Paul Amoruso is a Computer Engineering student at the
@@ -58,7 +57,6 @@ const About = () => {
                   className="img-fluid d-block mx-auto"
                   width="100"
                   height="150"
-                  style={{ paddingBottom: 10 }}
                 />
                 <p className="text-muted font-weight-light">
                   John Hauff is a Senior ​​baccalaureate student in Computer
@@ -83,7 +81,6 @@ const About = () => {
                   className="img-fluid d-block mx-auto"
                   width="100"
                   height="150"
-                  style={{ paddingBottom: 10 }}
                 />
                 <p className="text-muted font-weight-light">
                   Nikki Marrow is an Electrical Engineering student at the
@@ -101,7 +98,6 @@ const About = () => {
                   className="img-fluid d-block mx-auto"
                   width="100"
                   height="150"
-                  style={{ paddingBottom: 10 }}
                 />
                 <p className="text-muted font-weight-light">
                   Matthew Wilkinson is a graduating Computer Engineering student
