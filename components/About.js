@@ -38,7 +38,7 @@ const About = () => {
                   alt="Paul Amoruso Profile Picture"
                   className="img-fluid d-block mx-auto"
                   width="100"
-                  height="100"
+                  height="150"
                   style={{ paddingBottom: 10 }}
                 />
                 <p className="text-muted font-weight-light">
@@ -57,7 +57,7 @@ const About = () => {
                   alt="Paul Amoruso Profile Picture"
                   className="img-fluid d-block mx-auto"
                   width="100"
-                  height="100"
+                  height="150"
                   style={{ paddingBottom: 10 }}
                 />
                 <p className="text-muted font-weight-light">
@@ -82,7 +82,7 @@ const About = () => {
                   alt="Paul Amoruso Profile Picture"
                   className="img-fluid d-block mx-auto"
                   width="100"
-                  height="100"
+                  height="150"
                   style={{ paddingBottom: 10 }}
                 />
                 <p className="text-muted font-weight-light">
@@ -100,7 +100,7 @@ const About = () => {
                   alt="Paul Amoruso Profile Picture"
                   className="img-fluid d-block mx-auto"
                   width="100"
-                  height="100"
+                  height="150"
                   style={{ paddingBottom: 10 }}
                 />
                 <p className="text-muted font-weight-light">
