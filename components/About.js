@@ -18,8 +18,8 @@ const About = () => {
                 students at the University of Central Florida, graduating in the
                 Fall of 2021. Our team is comprised of three undergraduate
                 students studying Computer Engineering, and one undergraduate
-                student studying Electrical Engineering. We're very excited to
-                introduce you to The Smart Bird Feeder!
+                student studying Electrical Engineering. We&apos;re very excited
+                to introduce you to The Smart Bird Feeder!
               </p>
             </div>
           </Col>
@@ -44,10 +44,11 @@ const About = () => {
                 <p className="text-muted font-weight-light">
                   Paul Amoruso is a Computer Engineering student at the
                   University of Central Florida planning to graduate this
-                  semester with his bachelor's degree. After graduating, he will
-                  pursue his Master’s degree in Computer Engineering starting
-                  Spring of 2022 at UCF. Other interests include Computer
-                  Architecture topics and gardening in the greenhouse he built.
+                  semester with his bachelor&apos;s degree. After graduating, he
+                  will pursue his Master’s degree in Computer Engineering
+                  starting Spring of 2022 at UCF. Other interests include
+                  Computer Architecture topics and gardening in the greenhouse
+                  he built.
                 </p>
               </Col>
               <Col md={6}>
