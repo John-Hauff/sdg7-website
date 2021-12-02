@@ -1,5 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "reactstrap";
+import Image from "next/image";
 
 const About = () => {
   return (
@@ -32,8 +33,8 @@ const About = () => {
           <Col md={{ size: 7, offset: 1 }}>
             <Row>
               <Col md={6}>
-                <img
-                  src={"./images/paul.jpg"}
+                <Image
+                  src={"/images/paul.jpg"}
                   alt="Paul Amoruso Profile Picture"
                   className="img-fluid d-block mx-auto"
                   width="100"
@@ -50,8 +51,8 @@ const About = () => {
                 </p>
               </Col>
               <Col md={6}>
-                <img
-                  src={"./images/john.png"}
+                <Image
+                  src={"/images/john.png"}
                   alt="Paul Amoruso Profile Picture"
                   className="img-fluid d-block mx-auto"
                   width="100"
@@ -75,8 +76,8 @@ const About = () => {
           <Col md={{ size: 7, offset: 1 }}>
             <Row>
               <Col md={6}>
-                <img
-                  src={"./images/nikki.png"}
+                <Image
+                  src={"/images/nikki.png"}
                   alt="Paul Amoruso Profile Picture"
                   className="img-fluid d-block mx-auto"
                   width="100"
@@ -93,8 +94,8 @@ const About = () => {
                 </p>
               </Col>
               <Col md={6}>
-                <img
-                  src={"./images/matt.jpg"}
+                <Image
+                  src={"/images/matt.jpg"}
                   alt="Paul Amoruso Profile Picture"
                   className="img-fluid d-block mx-auto"
                   width="100"
