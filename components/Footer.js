@@ -7,7 +7,7 @@ const Footer = () => {
       id: 1,
       title: "Site Map",
       child: [
-        { title: "Home", link: "/" },
+        { title: "Home", link: "#home" },
         { title: "Features", link: "/#feature" },
         { title: "Presentations & Demos", link: "/#media" },
         { title: "Documents", link: "/#document" },
