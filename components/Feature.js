@@ -75,7 +75,7 @@ const Feature = () => {
       id: 2,
       img: "https://i.imgur.com/lUi0xNJ.gif",
       title: "Easily Refill Your Feeder",
-      desc: "The Smart Bird Feeder is equipped with an easy-to-use refill spout, complete with a cute bird ornament, which allows you to refill your feeder without the need to get inside of it.",
+      desc: "The Smart Bird Feeder is equipped with an easy-to-use refill spout, complete with a stylish bird ornament, which allows you to refill your feeder without the need to get inside of it.",
     },
     {
       id: 3,
