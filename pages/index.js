@@ -3,7 +3,7 @@ import Header from "../components/Header";
 import Hero from "../components/Hero";
 import Feature from "../components/Feature";
 import Media from "../components/Media";
-import Document from "../components/Document";
+import Documentation from "../components/Documentation";
 import About from "../components/About";
 import Footer from "../components/Footer";
 
@@ -14,7 +14,7 @@ const Index = () => {
       <Hero />
       <Feature />
       <Media />
-      <Document />
+      <Documentation />
       <About />
       <Footer />
     </Layout>

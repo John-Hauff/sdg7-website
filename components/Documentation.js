@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "reactstrap";
 import Link from "next/link";
 
-const Document = () => {
+const Documentation = () => {
   // TODO: Add links to PDFs
   const documents = [
     {
@@ -33,19 +33,19 @@ const Document = () => {
     {
       title: "SD2 Final Documentation (Coming Soon)",
       desc: "Updated final documentation from EEL4915",
-      file: "#document",
+      file: "#documentation",
       // file: "./documents/SD2_G7_Final_Paper.pdf",
     },
   ];
 
   return (
-    <section className="section" id="document">
+    <section className="section" id="documentation">
       <Container>
         <Row className="justify-content-center">
           <Col lg={6} md={8}>
             <div className="title text-center mb-5">
               <h3 className="font-weight-normal text-dark">
-                <span className="text-warning">Documents</span>
+                <span className="text-warning">Documentation</span>
               </h3>
               <p className="text-muted">
                 Documents associated with our Senior Design project spanning
@@ -77,4 +77,4 @@ const Document = () => {
     </section>
   );
 };
-export default Document;
+export default Documentation;

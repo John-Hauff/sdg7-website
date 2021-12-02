@@ -10,7 +10,7 @@ const Footer = () => {
         { title: "Home", link: "#home" },
         { title: "Features", link: "/#feature" },
         { title: "Presentations & Demos", link: "/#media" },
-        { title: "Documents", link: "/#document" },
+        { title: "Documents", link: "/#documentation" },
         { title: "About", link: "/#about" },
       ],
     },
