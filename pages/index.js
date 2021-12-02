@@ -16,6 +16,7 @@ const Index = () => {
       <Media />
       <Documentation />
       <About />
+      {/* TODO: Add a gallery component */}
       <Footer />
     </Layout>
   );
