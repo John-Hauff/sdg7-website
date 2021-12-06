@@ -39,7 +39,7 @@ const Hero = () => {
           <Col lg={6}>
             <div className="mt-5 mt-lg-0">
               <img
-                src="/images/feeder_round_img.jpg"
+                src="./images/feeder_round_img.jpg"
                 alt=""
                 className="img-fluid mx-auto d-block"
               />
