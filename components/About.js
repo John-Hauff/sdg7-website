@@ -33,7 +33,7 @@ const About = () => {
             <Row>
               <Col md={6}>
                 <img
-                  src={"./images/paul.jpg"}
+                  src={"./images/team/paul.jpg"}
                   alt="Paul Amoruso Profile Picture"
                   className="img-fluid d-block mx-auto"
                   width="100"
@@ -51,7 +51,7 @@ const About = () => {
               </Col>
               <Col md={6}>
                 <img
-                  src={"./images/john.png"}
+                  src={"./images/team/john.png"}
                   alt="John Hauff Profile Picture"
                   className="img-fluid d-block mx-auto"
                   width="100"
@@ -75,7 +75,7 @@ const About = () => {
             <Row>
               <Col md={6}>
                 <img
-                  src={"./images/nikki.png"}
+                  src={"./images/team/nikki.png"}
                   alt="Nikki Marrow Profile Picture"
                   className="img-fluid d-block mx-auto"
                   width="100"
@@ -92,7 +92,7 @@ const About = () => {
               </Col>
               <Col md={6}>
                 <img
-                  src={"./images/matt.jpg"}
+                  src={"./images/team/matt.jpg"}
                   alt="Matthew Wilkinson Profile Picture"
                   className="img-fluid d-block mx-auto"
                   width="100"
