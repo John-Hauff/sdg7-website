@@ -11,7 +11,6 @@ const Footer = () => {
         { title: "Features", link: "/#feature" },
         { title: "Presentations & Demos", link: "/#media" },
         { title: "Documents", link: "/#documentation" },
-        { title: "Gallery", link: "/#gallery" },
         { title: "About", link: "/#about" },
       ],
     },
