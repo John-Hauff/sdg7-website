@@ -45,7 +45,6 @@ const Header = () => {
               <NavItem>
                 <NavLink href="#documentation">Documentation</NavLink>
               </NavItem>
-              <NavItem></NavItem>
               <NavItem>
                 <NavLink href="#about">About</NavLink>
               </NavItem>
