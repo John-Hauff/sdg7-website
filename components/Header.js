@@ -46,6 +46,9 @@ const Header = () => {
                 <NavLink href="#documentation">Documentation</NavLink>
               </NavItem>
               <NavItem>
+                <NavLink href="#gallery">Gallery</NavLink>
+              </NavItem>
+              <NavItem>
                 <NavLink href="#about">About</NavLink>
               </NavItem>
             </Nav>
