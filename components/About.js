@@ -28,6 +28,11 @@ const About = () => {
             <h2 className="font-weight-light line-height-1_6 text-dark mb-4">
               Meet the team behind The Smart Bird Feeder
             </h2>
+            <img
+              src={"./images/team/group7_img_2.jpg"}
+              alt="Group 7 group photo"
+              className="img-fluid d-block mx-auto"
+            />
           </Col>
           <Col md={{ size: 7, offset: 1 }}>
             <Row>
@@ -39,7 +44,10 @@ const About = () => {
                   width="100"
                   height="150"
                 />
-                <p className="text-muted font-weight-light">
+                <p
+                  className="text-muted font-weight-light"
+                  style={{ textAlign: "justify" }}
+                >
                   Paul Amoruso is a Computer Engineering student at the
                   University of Central Florida planning to graduate this
                   semester with his bachelor&apos;s degree. After graduating, he
@@ -57,7 +65,10 @@ const About = () => {
                   width="100"
                   height="150"
                 />
-                <p className="text-muted font-weight-light">
+                <p
+                  className="text-muted font-weight-light"
+                  style={{ textAlign: "justify" }}
+                >
                   John Hauff is a Senior ​​baccalaureate student in Computer
                   Engineering at the University of Central Florida. His
                   interests include software development and embedded systems,
@@ -81,7 +92,10 @@ const About = () => {
                   width="100"
                   height="150"
                 />
-                <p className="text-muted font-weight-light">
+                <p
+                  className="text-muted font-weight-light"
+                  style={{ textAlign: "justify" }}
+                >
                   Nikki Marrow is an Electrical Engineering student at the
                   University of Central Florida. She is currently working as a
                   firmware engineer at Lockheed Martin in Orlando, previously
@@ -98,7 +112,10 @@ const About = () => {
                   width="100"
                   height="150"
                 />
-                <p className="text-muted font-weight-light">
+                <p
+                  className="text-muted font-weight-light"
+                  style={{ textAlign: "justify" }}
+                >
                   Matthew Wilkinson is a graduating Computer Engineering student
                   from the University of Central Florida. Following graduation
                   he will be working for Disney’s Design and Engineering team as
