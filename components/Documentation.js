@@ -29,10 +29,9 @@ const Documentation = () => {
       path: "./documents/SD2_G7_Final_Presentation.pdf",
     },
     {
-      title: "SD2 Final Documentation (Coming Soon)",
+      title: "SD2 Final Documentation",
       desc: "Updated final documentation from EEL4915",
-      path: "#documentation",
-      // path: "./documents/SD2_G7_Final_Paper.pdf",
+      path: "./documents/G7_SD2_Final_Documentation.pdf",
     },
     {
       title: "The Smart Bird Feeder Code Repository",
