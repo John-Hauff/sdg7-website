@@ -4,39 +4,39 @@ import { Container, Row, Col } from "reactstrap";
 const Gallery = () => {
   const gallery = [
     {
-      src: "../images/gallery/hanging_feeder_front_r.jpg",
+      src: "./../images/gallery/hanging_feeder_front_r.jpg",
       alt: "hanging_feeder_front_r.jpg",
     },
     {
-      src: "../images/gallery/hanging_feeder_back.jpg",
+      src: "./../images/gallery/hanging_feeder_back.jpg",
       alt: "hanging_feeder_back.jpg",
     },
     {
-      src: "../images/gallery/feeder_front_straight.jpg",
+      src: "./../images/gallery/feeder_front_straight.jpg",
       alt: "feeder_front_straight.jpg",
     },
     {
-      src: "../images/gallery/feeder_front_right.jpg",
+      src: "./../images/gallery/feeder_front_right.jpg",
       alt: "feeder_front_right.jpg",
     },
     {
-      src: "../images/gallery/feeder_front_left.jpg",
+      src: "./../images/gallery/feeder_front_left.jpg",
       alt: "feeder_front_left.jpg",
     },
     {
-      src: "../images/gallery/bird_at_feeder.jpg",
+      src: "./../images/gallery/bird_at_feeder.jpg",
       alt: "bird_at_feeder.jpg",
     },
     {
-      src: "../images/gallery/mid_demo_feeder_pcb.png",
+      src: "./../images/gallery/mid_demo_feeder_pcb.png",
       alt: "mid_demo_feeder_pcb.png",
     },
     {
-      src: "../images/gallery/nano2launchpad_UART.jpg",
+      src: "./../images/gallery/nano2launchpad_UART.jpg",
       alt: "nano2launchpad_UART.jpg",
     },
     {
-      src: "../images/gallery/pcb_bare.jpg",
+      src: "./../images/gallery/pcb_bare.jpg",
       alt: "pcb_bare.jpg",
     },
   ];
