@@ -9,7 +9,7 @@ const Hero = () => {
           <Col lg={6}>
             <div className="pr-lg-5">
               <p className="text-normal text-primary font-weight-medium f-12">
-                UCF ECE Senior Design Group 7
+                UCF ECE Senior Design Group 7 | Summer 2021 - Fall 2021
               </p>
               <h1 className="mb-4 font-weight-normal line-height-1_4">
                 The Smart Bird Feeder{" "}
