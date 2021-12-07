@@ -24,19 +24,7 @@ const Footer = () => {
           <Col lg={4}></Col>
           <Col lg={8}>
             <Row>
-              {links.map((link, key) => (
-                <Col key={key} md={4}>
-                  <h6 className="text-dark mb-3">{link.title}</h6>
-                  <ul className="list-unstyled company-sub-menu">
-                    {link.child.map((fLink, key) => (
-                      <li key={key}>
-                        <a href={fLink.link}>{fLink.title}</a>
-                      </li>
-                    ))}
-                  </ul>
-                </Col>
-              ))}
-
+              <Col md={1}></Col>
               <Col md={4}>
                 <h6 className="text-dark mb-3">Contact</h6>
                 <h6 className="text-muted pb-2">
